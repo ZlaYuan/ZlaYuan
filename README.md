@@ -19,7 +19,7 @@
 
 #
 
-🌍[我的主页](htttps://zlayuan.com) (未完工)
+🌍[我的主页](htttps://zlayuan.com)
 
 🌇[我的ins](https://www.instagram.com/zlayuan/)
 
