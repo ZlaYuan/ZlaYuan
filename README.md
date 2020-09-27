@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZLAYUAN)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 😊
 
 ### 亚利桑那大学计算机科学系学生，现居于图森
