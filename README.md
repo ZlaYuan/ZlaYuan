@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlayuan)](https://github.com/anuraghazra/github-readme-stats)
 ## 😊
 
 ### 亚利桑那大学计算机科学系学生，现居于图森
