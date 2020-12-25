@@ -5,9 +5,9 @@
 ### 亚利桑那大学计算机科学系学生，现居于图森
 #
 
-✅已完成: ~~ISTA 100, ISTA 116, ISTA 131, ISTA 161, CSC 110, CSC 120~~
+✅已完成: ~~ISTA 100, ISTA 116, ISTA 131, ISTA 161, CSC 110, CSC 120，CSC 337, ISTA 350~~
 
-📖进行中: CSC 337, ISTA 350
+📖进行中:
 
 #
 ## 爱好
