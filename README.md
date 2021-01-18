@@ -7,7 +7,7 @@
 
 ✅已完成: ~~ISTA 100, ISTA 116, ISTA 131, ISTA 161, CSC 110, CSC 120，CSC 337, ISTA 350~~
 
-📖进行中:
+📖进行中: CSC 210, CSC 245, ISTA 450
 
 #
 ## 爱好
